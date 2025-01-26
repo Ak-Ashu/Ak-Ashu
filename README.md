@@ -1,7 +1,8 @@
  <h1 align="center">Hi 👋, I'm Ashish Kumar</h1>
-<h3 align="center">A passionate data science developer from India</h3>
+<h3 align="center">I am a data science developer</h3>
+<h5 align="center">I am master in Python Language</h5>
 <img align = "right" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif" alt="coding">
-- 🌱 I’m currently learning **BCA course**
+- 🌱 I’m currently studying **BCA course**
 
 - 💬 Ask me about **Python, C++, MySQL Server, HTML, CSS, Javascript, Java**
 
