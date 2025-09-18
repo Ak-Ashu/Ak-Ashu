@@ -16,7 +16,7 @@
 - 🎓 **BCA Graduate** (ERA University)  
 - 💻 I build web apps and ML-powered systems using **Python**, **Flask**, **Machine Learning**, **Data Science** and modern ML tools.  
 - 🌱 I’m currently focused on embeddings, RAG, and API-driven AI systems.  
-- 💬 Ask me about **Python, C++, MySQL, HTML/CSS/JS, Java**.  
+- 💬 Ask me about **Python, Data Science, Machine Learning, AI, Flask, C++, MySQL, HTML/CSS/JS, Java**.  
 - 📫 Reach me: **[ashishak6969@gmail.com](mailto:ashishak6969@gmail.com)**  
 - ⚡ Fun fact: I can make people laugh while debugging 😄
 
