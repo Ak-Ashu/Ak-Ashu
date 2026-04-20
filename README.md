@@ -101,8 +101,10 @@
 ---
 
 ### 💬 Want to collaborate?
-If you’re building something with embeddings, RAG, or need a full-stack dev who loves ML — **let’s connect!**  
+If you’re building something with Python scripts, Machine Learning models or need a full-stack dev who loves ML — **let’s connect!**  
 Email: [ashishak6969@gmail.com](mailto:ashishak6969@gmail.com)
+Portfolio: [https://ashish-portfolio-kohl.vercel.app/]
+(mailto:https://ashish-portfolio-kohl.vercel.app/)
 
 ---
 
