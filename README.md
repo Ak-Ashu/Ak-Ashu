@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I’m Ashish Kumar
-## 💻 Python Developer | AI/ML Enthusiast | Web Developer (Flask, HTML, CSS, JS)
+## 💻 Python Developer | AI/ML | Web Developer (Flask, HTML, CSS, JS)
 ### 🌐 Passionate about **Web Development**, **AI**, and **Data Science**
 
 </div>
