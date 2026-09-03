@@ -24,13 +24,14 @@ Building practical applications with **Python, Flask, Machine Learning, SQL, and
 
 ## 👨‍💻 About Me
 
-- 🎓 **BCA Graduate** from ERA University, Lucknow
-- 🐍 Focused on **Python Development and Backend Engineering**
-- 🤖 Interested in **Artificial Intelligence, Machine Learning, and Data Science**
-- 🌐 Building web applications using **Flask, HTML, CSS, and JavaScript**
-- 🗄️ Working with **MySQL and SQL** for database-driven applications
-- 🔎 Exploring **RAG, embeddings, APIs, and AI-powered applications**
-- 🚀 Interested in building practical, scalable, and user-focused software
+- 🎓 Pursuing **Master of Computer Applications (MCA)** at **Galgotias University, Greater Noida**
+- 🎓 **Bachelor of Computer Applications (BCA)** graduate from **ERA University, Lucknow**
+- 🐍 Focused on **Python Development, Backend Engineering, and API Development**
+- 🤖 Building and exploring solutions in **AI, Machine Learning, and Data Science**
+- 🌐 Developing web applications using **Flask, HTML, CSS, and JavaScript**
+- 🗄️ Working with **MySQL and SQL** for database design and application development
+- 🔎 Currently learning **RAG, embeddings, vector databases, and AI-powered applications**
+- 🚀 Passionate about turning real-world problems into **practical, scalable software solutions**
 
 ---
 
