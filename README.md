@@ -82,6 +82,17 @@ Building practical applications with **Python, Flask, Machine Learning, SQL, and
 
 `MySQL` • `SQL` • `Git` • `GitHub` • `Postman` • `Jupyter Notebook` • `Streamlit`
 
+### 📊 Data Analyst
+
+<p>
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="45" title="Power BI" alt="Power BI"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" width="45" title="Microsoft Excel" alt="Microsoft Excel"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="45" title="Tableau" alt="Tableau"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL" alt="MySQL"/>
+</p>
+
+**Data Analysis:** `Power BI` • `Excel` • `Tableau` • `MySQL` • `SQL` • `Data Cleaning` • `Data Visualization` • `Dashboard Development`
+
 ---
 
 # 🚀 Featured Projects
